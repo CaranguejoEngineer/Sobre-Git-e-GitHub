@@ -1,0 +1,2 @@
+
+Basicamente é um galho de tal commit, é como se você pudesse criar uma versão nova da versão principal (master) sem interferir na linha principal, criando um galho dela podendo depois voltar pra master
